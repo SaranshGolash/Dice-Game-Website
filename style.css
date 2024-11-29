@@ -1,0 +1,38 @@
+h1 {
+    display: flex;
+    color: rgb(62, 145, 62);
+    font-size: 150px;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(46, 59, 63);
+}
+
+.dice-block {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.player-block {
+    display: inline-block;
+    align-items: center;
+    padding-top: 10px;
+}
+
+h4 {
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    color: rgb(62, 145, 62);
+}
+
+.player2-block {
+    display: block;
+    padding-left: 50px;
+    padding-top: 10px;
+}
